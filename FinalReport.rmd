@@ -61,11 +61,18 @@ rowPerc(table1)
 colPerc(table1)
 ```
   
-According to the provided data, placebo carries a higher average number compared to the drug on both results. The first result has the drug at 24.29 and the placebo at 75.71 when looking at aids. The seconf results shows the drug being at 2.89 while the placebo carries a higher number at 7.77.
+According to the provided data, placebo carries a higher average number compared to the drug on both results. The first result has the drug at 24.29 and the placebo at 75.71 when looking at aids. The second results shows the drug being at 2.89 while the placebo carries a higher number at 7.77.
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+  
+Looking at the results the Chi-squared data concludes that the P value chance is 0.0000001242. The fishers exact test data also gives us a estimated ratio of 0.35 The overall amount of users that took placebo and obtaining aids is 106 while users who took drugs only had 34.
 
 # Discussion and Conclusion
 
