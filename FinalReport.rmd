@@ -77,3 +77,5 @@ Looking at the results the Chi-squared data concludes that the P value chance is
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+In conclusion, we see that users who took Placebo are at a higher risk of getting aids compared to other drugs. Looking at the first graph we see a higher percentage of aids when placed under the placebo mark. This data shows the comparison of percentage between the two types. The second data shows the average number of users who have taken placebo or the drug and which ones got aids from it. The final data chart gives us a ratio we can use that expresses the difference between the two drugs where Placebo carries a higher risk of giving aids to it's users.
